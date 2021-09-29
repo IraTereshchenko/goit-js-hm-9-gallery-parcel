@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://IraTereshchenko.github.io/goit-js-hm-9-gallery-parcel",
+  "homepage": "https://iratereshchenko.github.io/goit-js-hm-9-gallery-parcel/",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /goit-js-hm-9-gallery-parcel/"
